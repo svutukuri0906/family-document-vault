@@ -1,0 +1,9 @@
+# Never commit exported records or photos of documents
+*.json
+*.csv
+*.jpg
+*.jpeg
+*.png
+*.heic
+*.pdf
+.DS_Store
